@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 <div style="align: center" align=center>
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="550px"/>
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="450px"/>
 </div>
 
 
