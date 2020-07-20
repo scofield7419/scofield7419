@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<center></center>
 -->
 
 
@@ -22,9 +23,16 @@ Here are some ideas to get you started:
 <!--
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=lonelygo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
-<div style="align: center">
+
+![scofield7419](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?center)
+
+
+
+
+<div style="align: center" align=center>
 <img align="middle" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600px"/>
 </div>
-<center></center>
+
+
 
 ----
